@@ -1,0 +1,7 @@
+addition = lambda x: x + 15
+multiplication = lambda x, y: x * y
+
+result1 = addition(10)
+result2 = multiplication(6, 8)
+
+print(result1, result2)
