@@ -1,0 +1,8 @@
+isNumber = lambda string: string.isdigit()
+
+input_string = "12345"
+
+if isNumber(input_string):
+    print("String is a number")
+else:
+    print("String is not a number"
