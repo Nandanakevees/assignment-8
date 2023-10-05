@@ -1,0 +1,9 @@
+startsWith = lambda string, char: string.startswith(char)
+
+input_string = "Hello, World!"
+start_char = "H"
+
+if startsWith(input_string, start_char):
+    print("String starts with", start_char)
+else:
+    print("String does not start with", start_char)
