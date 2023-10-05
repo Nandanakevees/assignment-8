@@ -1,0 +1,6 @@
+class RomanConverter:
+    def int_to_roman(self, num):
+        # Your implementation here
+
+    def roman_to_int(self, roman):
+        # Your implementation here
